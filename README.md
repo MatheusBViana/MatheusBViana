@@ -1,5 +1,5 @@
 ### Hi 😁
-I am currently an Undergrad CompSci Student at University of Sao Paulo! 📖
+I am currently an Undergrad CompSci Student at University of Sao Paulo 📖
 
 Technology and computers are my passion 💻
 
