@@ -11,3 +11,5 @@ You can also find me in <a href="https://www.linkedin.com/in/matheusbermudes/">L
 [![Anurag's GitHub stats](https://own-github-readme-stats-ten.vercel.app/api?username=MatheusBViana&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://own-github-readme-stats-ten.vercel.app/api/top-langs/?username=MatheusBViana&count_private=true&show_icons=true&theme=tokyonight&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBViana&count_private=true&show_icons=true&theme=tokyonight&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
