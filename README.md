@@ -1,5 +1,5 @@
 ### Hi 😁
-I am currently a Software Engineer and Undergrad CompSci Student at University of Sao Paulo! 📖
+I am currently a Software Engineer Intern at Google and Undergrad Computer Science Student at University of Sao Paulo! 📖
 
 Technology and computers are my passion 💻
 
